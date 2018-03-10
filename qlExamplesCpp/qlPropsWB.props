@@ -3,7 +3,7 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
-    <IncludePath>$(BOOST_DIR);$(QL_DIR);$(IncludePath)</IncludePath>
+    <IncludePath>$(QL_DIR);$(BOOST_DIR);$(IncludePath)</IncludePath>
     <LibraryPath>$(QL_LIB);$(BOOST_LIB);$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup />
